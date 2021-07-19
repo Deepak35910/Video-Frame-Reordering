@@ -9,3 +9,9 @@ Model likes Inception are trained on huge data to classify images. They do so by
 TSNE
 
 TSNE takes data of m dimension and reduces the dimesion to as low as 1. It reduces dimesion based on similarity. Data which are closer to each other in m dimesion are more similar to each other and are grouped together in lower dimesion. It gives similar values to Data which are closer to each other and values changes as data gets farther from each other. We can use this concept to arrange frames which are in 2048 dimesion after passing from Inception layer to reduce them to 1 dimesion We can then arrange this data as per TSNE values and hopefully we will be able to get proper sequence.
+
+FILES
+reorder_video_frame.ipynb - all the codes (was written in colab)
+Play_video.ipynb - to play all video 
+
+
