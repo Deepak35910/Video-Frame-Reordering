@@ -13,11 +13,12 @@ TSNE takes data of m dimension and reduces the dimesion to as low as 1. It reduc
 FILES
 
 reorder_video_frame.ipynb - all the codes (was written in colab)
+
 Play_video.ipynb - to play all video 
 
 
 
-Link for video file
+LINKS FOR VIDEO FILE
 
 https://drive.google.com/drive/folders/1muuj3Qt3w9Mc48Kt7zzYtEBgW5c1elFd?usp=sharing
 
